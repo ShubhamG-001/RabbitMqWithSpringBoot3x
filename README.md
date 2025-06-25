@@ -15,6 +15,8 @@ This project demonstrates how to integrate RabbitMQ with Spring Boot 3 to implem
 
 Required : 
 1) Download Rabbit MQ on your local system from official website - https://www.rabbitmq.com/docs/install-windows & install it
-2) Rabbit MQ Version 4.1.1
+2) Jdk 17
 3) Spring boot version 3.5.3
+4) Rabbit MQ Version 4.1.1
+
 
